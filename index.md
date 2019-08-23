@@ -7,14 +7,13 @@
 
 ## Instructor and Class Details
 
--   Professor: Eric Baker
-    -   Office: 2569 Golisano Hall
-    -   Email: eabigm@rit.com
+-   Professor: Sean Brennan
+    -   Email: sjbigm@rit.com
     -   Office hours:
-        -   Mondays & Wednesdays 9:00am  -1a:00am
+        -   By appointment; send me an email, or a message on discord and we can figure out a time to meet
 
 -   Class Time/Location:
-    -   Tuesdays & Thursdays, 2:00 - 3:15pm, 1370 Orange Hall
+    -   Tuesdays & Thursdays, 6:30 - 7:15pm, 1370 Orange Hall
 
 ## Course Catalog Description
 
