@@ -68,12 +68,12 @@ A major focus of this class will be on developing your critiquing skills. This w
 ### Important RIT Deadlines
 
 -   Last day of add/drop is 4 September 2019.
--   Last day to withdraw with a grade of “W” is 8 November 2018.
+-   Last day to withdraw with a grade of “W” is 8 November 2019.
 -   You have one semester after the class has ended to challenge your grade.
 
 ### Communication
 
-Any updates to assignments or the syllabus will be posted in GitHub and automatically announced in Discord. Major announcements (such as class cancellations) will be posted in the general channel in Discord. This means you should regularly check the class Discord, and consider setting up notifications for the general channel. I check both email and Discord frequently, and will try to always respond within 24 hours. You will get a faster response using Discord, with the bonus that other people in the class can help answer questions, as well. If you want to send me email, please make sure you send it from your RIT account to my RIT email, eabigm@rit.edu.
+Any updates to assignments or the syllabus will be posted in GitHub and automatically announced in Discord. Major announcements (such as class cancellations) will be posted in the general channel in Discord. This means you should regularly check the class Discord, and consider setting up notifications for the general channel. I check both email and Discord frequently, and will try to always respond within 24 hours. You will get a faster response using Discord, with the bonus that other people in the class can help answer questions, as well. If you want to send me email, please make sure you send it from your RIT account to my RIT email, sjbigm@rit.edu.
 
 ### Late Policy
 
