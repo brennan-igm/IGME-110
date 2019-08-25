@@ -8,7 +8,7 @@ _**Important note:** If you already use Discord Skip to step 2_
     [From a PC or Mac](https://www.wikihow.com/Create-a-Discord-Account-on-a-PC-or-Mac)
     [From your phone](https://www.wikihow.tech/Create-a-Discord-Account-on-Android) (_I highly recommend you use the phone app_)
 
-2.  Join our class server by click the invite on myCourses. [Discord Invite](<{{ site.discordInvite }}>)
+2.  Join our class server by click the invite on myCourses. [Discord Invite]
 
 3.  Change your nickname on our server to a name that you would prefer to be called by followed by your RIT username. (e.g. Baker eabigm)
 
