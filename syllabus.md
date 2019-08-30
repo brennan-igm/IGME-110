@@ -5,7 +5,7 @@
 
 # Course Syllabus
 
-### Section 04, Fall 2191
+### Section 07, Fall 2191
 
 **_Please read this document carefully and bookmark it for future reference. It provides the context and structure which will guide all aspects of this course._**
 
@@ -27,9 +27,9 @@ MyCourses will _only_ be used for grading, quizzes, and submission of assignment
 
 Listening to a lecture is seldom the best way to learn a topic. As a result, when new topics are introduced I will expect you to complete the assigned readings or tutorials _before_ the class where we discuss that topic. In most of our class meetings, I will give a lecture providing context and additional information about the assigned materials, and then we'll do an in-class exercise to get hands-on experience with the concepts being discussed.
 
-## [Course Topics & Schedule](Schedule.md)
+## [Course Topics & Schedule](schedule.md)
 
-The schedule of topics, readings, and exercises can be found in the [Schedule.md](Schedule.md) file. Materials for in-class exercises can be found in the GitHub folder for that week's class.  It is your responsibility to check the schedule for each week's readings. You will find the in-class exercises very challenging if you do not complete the readings and/or tutorials for that week.
+The schedule of topics, readings, and exercises can be found in the [schedule.md](schedule.md) file. Materials for in-class exercises can be found in the GitHub folder for that week's class.  It is your responsibility to check the schedule for each week's readings. You will find the in-class exercises very challenging if you do not complete the readings and/or tutorials for that week.
 
 ## Attendance
 
@@ -68,12 +68,12 @@ A major focus of this class will be on developing your critiquing skills. This w
 ### Important RIT Deadlines
 
 -   Last day of add/drop is 4 September 2019.
--   Last day to withdraw with a grade of “W” is 8 November 2018.
+-   Last day to withdraw with a grade of “W” is 8 November 2019.
 -   You have one semester after the class has ended to challenge your grade.
 
 ### Communication
 
-Any updates to assignments or the syllabus will be posted in GitHub and automatically announced in Discord. Major announcements (such as class cancellations) will be posted in the general channel in Discord. This means you should regularly check the class Discord, and consider setting up notifications for the general channel. I check both email and Discord frequently, and will try to always respond within 24 hours. You will get a faster response using Discord, with the bonus that other people in the class can help answer questions, as well. If you want to send me email, please make sure you send it from your RIT account to my RIT email, eabigm@rit.edu.
+Any updates to assignments or the syllabus will be posted in GitHub and automatically announced in Discord. Major announcements (such as class cancellations) will be posted in the general channel in Discord. This means you should regularly check the class Discord, and consider setting up notifications for the general channel. I check both email and Discord frequently, and will try to always respond within 24 hours. You will get a faster response using Discord, with the bonus that other people in the class can help answer questions, as well. If you want to send me email, please make sure you send it from your RIT account to my RIT email, sjbigm@rit.edu.
 
 ### Late Policy
 
