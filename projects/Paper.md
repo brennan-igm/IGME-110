@@ -35,7 +35,7 @@ A very basic statement of your topic and a brief description or outline of your 
 
 Your first draft of the paper should have **at least eight sources referenced, and have at least 900 words of text**. (The more finished the paper is, the more useful the feedback you receive will be). You'll be peer reviewing each others' first drafts in class on Thursday. This is a good way to see examples of other students’ approaches to the assignment, as well as to get peer feedback before turning in your final paper. While this assignment will not be graded, if you don’t upload an acceptable draft and participate in the peer review process, you’ll **lose 10% of your final paper grade** (5% for the draft, 5% for the peer reviews).
 
-### Final Paper: Due before 11:30pm on Sunday, September 22th
+### Final Paper: Due before 11:59pm on Sunday, September 22th
 
 The final version of your paper is due by 11:59pm on the date above. Upload an electronic copy of the paper in the myCourses dropbox. It must be in Word (.doc, .docx), rich text format (.rtf), PDF (.pdf), or Open Office (.odf). Please do not submit it in Apple Pages or any other non-standard format, and do not simply submit a link to a Google Doc. Most word processing programs (including Google Docs and Apple Pages) will allow you to save a file in PDF or RTF format.
 
