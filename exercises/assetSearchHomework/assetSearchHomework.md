@@ -5,13 +5,13 @@ You will work with your group to collect assets that can be used for a rapid pro
 ## Asset List
 
 1.  Main Character
-2.  Enemy Character (x3)
-3.  Projectile (x4)
-4.  Hit Effect (x2)
+2.  Enemy or NPC Character (x3)
+3.  Projectile or Pickup (x4)
+4.  Hit Effect or Pickup Effect (x2)
 5.  Background Soundtrack for a Level
 6.  Soundtrack for the Main Menu
-7.  Hit Soundeffect
-8.  Fire Soundeffect
+7.  Hit or Pickup Soundeffect
+8.  Fire or Pickup Soundeffect
 
 ## Diliverable
 
