@@ -8,7 +8,7 @@
 ## Instructor and Class Details
 
 -   Professor: Sean Brennan
-    -   Email: sjbigm@rit.com
+    -   Email: sjbigm@rit.edu
     -   Office hours:
         -   By appointment; send me an email, or a message on discord and we can figure out a time to meet
 
