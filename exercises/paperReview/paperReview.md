@@ -6,11 +6,7 @@ Today you will be picking two of your group members' papers to review, using a r
 
 Inside of your Google Shared Drive you will find a folder "Paper", in there you will find two files. The first is a spreadsheet, First Draft Peer Reviews, that you will use to make sure everyone gets their paper review by only 2 people. Please put your name in the first column "Writer's Name" and then put your name as "Review 1" and "Reviwer 2" (not for the same person).
 
-The second document, Paper Peer Eval, is the word doc you will use for the peer review. Make a copy for each of the papers you will review. File -> Make a copy
-
-Right-click on the following link, and save the file to your computer: (PaperPeerEval.docx)
-
-Once you've downloaded it, make a second copy. Name each of the files using your name and the name of the person whose paper you're reviewing. For example, if Professor Lawley was reviewing Emily Turner's paper, she'd name the file "Lawley-Turner.docx".
+The second document, Paper Peer Eval, is the word doc you will use for the peer review. Make a copy for each of the papers you will review(`File -> Make a copy`). Name each of the files using your name and the name of the person whose paper you're reviewing. For example, if Professor Baker was reviewing Emily Turner's paper, she'd name the file "Baker-Turner".
 
 ## Part 2: Review the Papers
 
