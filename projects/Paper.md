@@ -43,7 +43,7 @@ The final version of your paper is due by 11:59pm on the date above. Upload an e
 
 Here are the content and formatting requirements for the paper:
 
--   The minimum length for the body of the paper (not including the title page, abstract, or bibliographic references) is 1200 words. There is not a maximum length cutoff, but I would prefer that the paper not exceed 3,00 words.
+-   The minimum length for the body of the paper (not including the title page, abstract, or bibliographic references) is 1200 words. There is not a maximum length cutoff, but I would prefer that the paper not exceed 3,000 words.
 -   You must use a style manual to format your paper, footnotes/endnotes, and bibliography. You can use whichever standard style you’d like--APA, MLA, Chicago, Turabian, etc. For more information on style manuals and citing sources, consult the [RIT Library style guide references](http://infoguides.rit.edu/citationguide), come to my office hours, or talk to a librarian at the Wallace Library.
 -   Include a bibliography of all articles, books, and online resources you use to research your topic. This bibliography should include any reference that you cite in your paper. Use your chosen style manual’s format for your bibliographic references.
 -   You must include at least eight references in your bibliography, and a minimum of four of those references should be to high-quality edited sources–books, magazine or journal articles, or newspaper articles, all properly cited. The other four sources can be (but do not have to be) more informal web-based sources. You may not count reference books or websites such as encyclopedias or dictionaries (tertiary sources) towards your eight references.
