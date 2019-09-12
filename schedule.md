@@ -125,8 +125,6 @@ As a creative professional, you need to be familiar with the laws governing the 
 
 -   **[Exercise](exercises/paperReview/paperReview)**
     -   You will review each other's paper first draft.
-    -   You must have at least the outline for your paper uploaded to the shared Google Drive folder.
-    -   The more you have the more feedback you can get so if you have a list of references you have found or even some of it written you will get more of the class.
     -   You will be graded on that wether or not you uploaded your outline and that you reviewed at least two other papers.
     -   **Due by 11:30pm Tonight**
 
