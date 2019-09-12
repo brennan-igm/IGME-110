@@ -18,4 +18,4 @@ Upload your finished review to the Google Drive folder containing the paper.
 
 ## Deliverables
 
-**Before you leave class today**, you should have completed both peer review forms, and uploaded them to the paper author's folder in Google Drive.
+**By tomorrow at 11:59pm**, you should have completed both peer review forms, and uploaded them to the paper author's folder in Google Drive.
