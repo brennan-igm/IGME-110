@@ -126,7 +126,7 @@ As a creative professional, you need to be familiar with the laws governing the 
 -   **[Exercise](exercises/paperReview/paperReview)**
     -   You will review each other's paper first draft.
     -   You will be graded on that wether or not you uploaded your outline and that you reviewed at least two other papers.
-    -   **Due by 11:30pm Tonight**
+    -   **Due by 11:59pm Tomorrow Night (9/13/2019)**
 
 {% include top.html id="week4" content=page.week4 %}
 
