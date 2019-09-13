@@ -171,6 +171,7 @@ When creating interactive media--whether it's a website, a game, or an applicati
 ### Tuesday (10/1)
 
 -   **Readings**
+    -   [Liz Lerman's Critical Response Process](http://www.brooklynartscouncil.org/files/downloads/Critical_Response_Process.pdf)
     -   [How to Give and Receive Criticism](https://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)
 
 ### Thursday (10/3)
