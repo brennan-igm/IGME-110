@@ -14,4 +14,4 @@ Whatever magazine you pick, your magazine cover should look convincingly like th
 
 In order for us to evaluate your work, we need to be able to see the original Photoshop PSD file containing all the layers that you created (do not flatten it). Additionally, you should submit a JPEG version of the magazine cover that is suitable for web viewing (about 5-6 inches wide with a resolution of about 96 pp).
 
-The PSD and JPEG files should be uploaded to the Week 10 Compositing Exercise dropbox in myCourses.
+The PSD and JPEG files should be uploaded to the `Compositing Exercise` dropbox in myCourses.
