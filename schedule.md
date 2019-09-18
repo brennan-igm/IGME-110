@@ -143,7 +143,7 @@ This week we’ll talk about the underlying concepts critical to understanding d
 
 -   **Readings**
     -   [Adobe.com: Image Essentials](https://helpx.adobe.com/photoshop/using/image-essentials.html)
--   **[Homework](exercises/compositingExercise/compositingExercise)**
+-   **[Exercise](exercises/imageOptimizeExercise/imgOptExercise)**
     -   In this homework you will make a magazine cover using Photoshop.
 
 {% include top.html id="week5" content=page.week5 %}
