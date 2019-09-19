@@ -38,7 +38,7 @@
 -   [{{ page.week13 }}](#week13)
 -   [{{ page.week14 }}](#week14)
 -   [{{ page.week15 }}](#week15)
--   [Finals Week (TBA): Final Presentations](projects/Presentation.md)
+-   [Finals Week (TBA): Final Presentations](projects/Presentation)
 
 {% include top.html id="week1" content=page.week1 %}
 
@@ -48,9 +48,9 @@ On Tuesday, we'll review the syllabus, goals, and requirements for class, as wel
 
 -   **Readings**
 
-    -   [Course Syllabus](syllabus.md)
+    -   [Course Syllabus](syllabus)
 
--   **[Homework](exercises/commHomework/commHomework.md)**
+-   **[Homework](exercises/commHomework/commHomework)**
 
     -   Set up your Discord nickname and a post to the #introductions channel.
     -   **Due by Thursday's class**
@@ -63,18 +63,18 @@ On Tuesday, we'll review the syllabus, goals, and requirements for class, as wel
     -   [Discord - Getting Started](https://support.discordapp.com/hc/en-us/articles/219470277-Getting-Started)
     -   [Use Google Docs to Collaborate on CLass Note Taking](https://www.huffingtonpost.com/hack-college/use-google-docs-to-collab_b_844192.html)
 
--   **[In-Class Exercise](exercises/commExercise/commExercise.md)**
+-   **[In-Class Exercise](exercises/commExercise/commExercise)**
 
     -   Hands-on practice with both Google Docs and Discord.
 
--   **[Homework](projects/Paper.md)**
+-   **[Homework](projects/Paper)**
 
     -   Submit your paper topic to the myCourses dropbox.
     -   **Due by Tuesday's class**
 
 {% include top.html id="week2" content=page.week2 %}
 
-This week we'll be talking about information--how to find it, and how to evaluate its quality and reliability.  On Tuesday, we'll talk broadly about critically evaluating information online. On Thursday, we’ll focus on research tools and methods, including library resources you can use for your [research paper assignment](projects/Paper.md).
+This week we'll be talking about information--how to find it, and how to evaluate its quality and reliability.  On Tuesday, we'll talk broadly about critically evaluating information online. On Thursday, we’ll focus on research tools and methods, including library resources you can use for your [research paper assignment](projects/Paper).
 
 ### Tuesday (9/3)
 
@@ -85,7 +85,7 @@ This week we'll be talking about information--how to find it, and how to evaluat
     -   [The Oatmeal: Believe](http://theoatmeal.com/comics/believe_clean)
         -   (This is the sanitized "classroom" version of the comic; there is also an [NSFW original version](http://theoatmeal.com/comics/believe).)
 
--   **[Exercise](exercises/infoEvalExercise/infoEvalExercise.md)**
+-   **[Exercise](exercises/infoEvalExercise/infoEvalExercise)**
 
     -   Play an web game to test how well you can determine real from fake articles.
 
@@ -97,11 +97,11 @@ This week we'll be talking about information--how to find it, and how to evaluat
     -   [Six Tips to Finding Research Sources That Set You Apart](https://www.studyright.net/blog/research-paper-sources/)
     -   [Researching the Interactive Media Industry](http://infoguides.rit.edu/c.php?g=332548&p=2258424)
 
--   **[Exercise](exercises/biblioExercise/bibExercise.md)**
+-   **[Exercise](exercises/biblioExercise/bibExercise)**
 
     -   In this exercise, you will use the NoodleTools resource provided by the RIT Library to create an annotated bibliography, using a topic from the list provided.
 
--   **[Homework](projects/Paper.md)**
+-   **[Homework](projects/Paper)**
     -   Write the first draft of your paper.
     -   **Due by Next Thursday's class**
 
@@ -144,7 +144,6 @@ This week we’ll talk about the underlying concepts critical to understanding d
 -   **Readings**
     -   [Adobe.com: Image Essentials](https://helpx.adobe.com/photoshop/using/image-essentials.html)
 -   **[Exercise](exercises/imageOptimizeExercise/imgOptExercise)**
-    -   In this homework you will make a magazine cover using Photoshop.
 
 {% include top.html id="week5" content=page.week5 %}
 
@@ -165,6 +164,8 @@ When creating interactive media--whether it's a website, a game, or an applicati
     -   [20 Common Typography Mistakes](https://designschool.canva.com/blog/typography-mistakes/)
     -   [Comic Sans Criminal](http://www.comicsanscriminal.com/)
     -   [Papyrus Skit from SNL](https://www.youtube.com/watch?v=jVhlJNJopOQ)
+-   **[Homework](exercises/compositingExercise/compositingExercise)**
+    -   In this homework you will make a magazine cover using Photoshop.
 
 {% include top.html id="week6" content=page.week6 %}
 
@@ -176,7 +177,7 @@ When creating interactive media--whether it's a website, a game, or an applicati
 
 ### Thursday (10/3)
 
--   **[Exercise](exercises/critiqueExercise/designCritiqueExercise.md)**
+-   **[Exercise](exercises/critiqueExercise/designCritiqueExercise)**
 
 {% include top.html id="week7" content=page.week7 %}
 
@@ -188,7 +189,7 @@ For the Getting Started with the Web articles in this week's readings, make sure
 
 -   **Readings**
     -   [6 Ways Writing is Significantly Different for Online and Print](https://contently.com/strategist/2015/05/12/6-ways-writing-for-online-is-different-than-print/)
--   **[Exercise](exercises/markupExercise/basicMarkupExercise.md)**
+-   **[Exercise](exercises/markupExercise/basicMarkupExercise)**
     -   In today's exercise, you'll create a basic HTML page, with links and images.
 
 ### Thursday (10/10)
@@ -208,7 +209,7 @@ We will not have class on Tuesday of this week, because it is a reading day. Mak
     -   [MDN: Introduction to CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
     -   [MDN: Normal Flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
     -   [MDN: Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
--   **[Exercise](/exercises/designExercise/designExercise.md)**
+-   **[Exercise](/exercises/designExercise/designExercise)**
     -   Before class, upload at least one visual mockup of your site to your note-taking group's folder for peer review in class.
     -   These can be done in whatever graphics or prototyping tool you prefer, or even in HTML and CSS.
     -   All you need to provide is a screenshot or exported image.
@@ -261,7 +262,7 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 
 ### Thursday (11/7)
 
--   **[Exercise](exercises/audioExercise/audioExercise.md)**
+-   **[Exercise](exercises/audioExercise/audioExercise)**
     -   In today's exercise you will add audio to a video.
 
 {% include top.html id="week12" content=page.week12 %}
@@ -276,7 +277,7 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 
 -   **Readings**
     -   [Lynda.com: Premiere Pro CC 2018 Essential Training: The Basics](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-CC-2018-Essential-Training-Basics/624346-2.html)
--   **[Exercise](exercises/videoExercise/videoExercise.md)**
+-   **[Exercise](exercises/videoExercise/videoExercise)**
     -   In this exercise, you will be creating a trailer for some form of media.
 
 {% include top.html id="week13" content=page.week13 %}
@@ -315,4 +316,4 @@ If you will be missing Tuesday's class due to travel plans, you will need to wat
 
 ### Thursday (12/5)
 
--   **[Exercise](exercises/socialmediaExercise/onlinePresence.md)**
+-   **[Exercise](exercises/socialmediaExercise/onlinePresence)**

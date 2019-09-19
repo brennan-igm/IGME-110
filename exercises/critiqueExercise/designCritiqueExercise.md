@@ -1,6 +1,6 @@
 # Design Critique Exercise
 
-The goal of this exercise is to critique the visual design of a website, and to identify what aspects could be changed to improve it. For every part of a design, you should ask: Does it serve its goal – what the designer wants to make the viewer think, feel, do? Here are some of the things we discussed in the lecture:
+The goal of this exercise is to critique the visual design of your magazine covers, and to identify what aspects could be changed to improve it. For every part of a design, you should ask: Does it serve its goal – what the designer wants to make the viewer think, feel, do? Here are some of the things we discussed in the lecture:
 
 -   Expression
     -   When creating a design, begin by describing the personality, values, atmosphere you want to evoke in adjectives. These adjectives should be expressed in all parts of the design: shapes, arrangement, colors, textures, imagery, typography, tone of voice.
