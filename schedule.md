@@ -179,7 +179,7 @@ When creating interactive media--whether it's a website, a game, or an applicati
 
 -   **HOMEWORK**
 
-    - [Play "A Dark Room" before class]http://adarkroom.doublespeakgames.com/
+    - [Play "A Dark Room" before class](http://adarkroom.doublespeakgames.com/)
 
 ### Thursday (10/3)
 
