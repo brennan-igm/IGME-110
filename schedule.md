@@ -165,6 +165,8 @@ When creating interactive media--whether it's a website, a game, or an applicati
     -   [20 Common Typography Mistakes](https://designschool.canva.com/blog/typography-mistakes/)
     -   [Comic Sans Criminal](http://www.comicsanscriminal.com/)
     -   [Papyrus Skit from SNL](https://www.youtube.com/watch?v=jVhlJNJopOQ)
+-   **[Exercise](exercises/compositingExercise/compositingExercise)**
+    -   In this exercise you will make a magazine cover using Photoshop.
 
 {% include top.html id="week6" content=page.week6 %}
 
