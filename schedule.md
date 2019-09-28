@@ -306,6 +306,7 @@ If you will be missing Tuesday's class due to travel plans, you will need to wat
     -   [Garr Reynolds' Top Ten Slide Tips](http://www.garrreynolds.com/preso-tips/design/)
     -   [LifeHack: 18 Tips for Killer Presentations](http://www.lifehack.org/articles/communication/18-tips-for-killer-presentations.html)
     -   [Anatomy of an Ignite Talk](http://www.eevblog.com/2013/08/08/anatomy-of-an-ignite-talk/)
+    -   [How to sound smart in your TEDx Talk | Will Stephen | TEDxNewYork](https://youtu.be/8S0FDjFBj8o)
 
 {% include top.html id="week15" content=page.week15 %}
 
