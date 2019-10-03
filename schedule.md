@@ -183,8 +183,6 @@ When creating interactive media--whether it's a website, a game, or an applicati
 
 ### Thursday (10/3)
 
--   **[Exercise](exercises/critiqueExercise/designCritiqueExercise.md)**
-
 {% include top.html id="week7" content=page.week7 %}
 
 This week we’ll talk about how the web differs from other types of media, and you'll learn how to create basic web pages using HTML and CSS.
