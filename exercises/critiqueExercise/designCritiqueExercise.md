@@ -1,45 +1,35 @@
-# Design Critique Exercise
+# Critique Exercise
 
-The goal of this exercise is to critique the visual design of a website, and to identify what aspects could be changed to improve it. For every part of a design, you should ask: Does it serve its goal – what the designer wants to make the viewer think, feel, do? Here are some of the things we discussed in the lecture:
+The goal of this exercise is to practice critique skills. Remember that critique is best when it is constructive; use non-judgmental questions--"What was your goal for this work?" "What do you want people to notice first?", acknowledge positive aspects of the work, and provide concrete suggestions for improvement.
 
--   Expression
-    -   When creating a design, begin by describing the personality, values, atmosphere you want to evoke in adjectives. These adjectives should be expressed in all parts of the design: shapes, arrangement, colors, textures, imagery, typography, tone of voice.
--   Alignment
-    -   Maintain consistency across shape, color, texture, imagery, arrangement, etc. Deviate from it only to support your goal.
-    -   Align elements to good gestalts: forming continuous lines and closed shapes through similar appearance, chunking (putting things that belong to each other close together), and a grid.
-    -   Use a base grid to support you in aligning and arranging elements.
--   Reduction
-    -   To emphasize an element, mark a difference, or establish hierarchy, use the smallest effective difference.
-    -   Reduce elements, shapes, colors, textures, words etc. until you cannot take anything away anymore without hurting your purpose.
-    -   Use white space to calm and guide the eye.
--   Stress
-    -   Provide a clear visual hierarchy: Most important, second most important, etc.
-    -   Establish a clear view path from most to least important.
-    -   Provide straight scan lines for the eye to move along easily.
+You'll be doing this exercise in your note-taking groups, critiquing each person's magazine cover as a group.
 
-## Site Selection and Critique Process
+## Process
 
-1.  Picking a genre of web site from the list below.
+1.  Upload your own magazine cover to your group's Google Drive folder. (I suggest creating a folder for this purpose.) Make sure your name is in the file name.
 
-    -   government agency
-    -   university
-    -   law firm
-    -   design company/consultancy
-    -   game software company
+2.  Take ten minutes to individually review all of your group's covers, taking your own notes on what you think is particularly good, unclear, and/or needs improvement. Make sure you write your thoughts down, since you'll need to turn these notes in.
 
+3.  As a group, critique each of the covers.
 
-2.  Discuss the possible goal (or goals) for that type of website.
+    -   Have the creator start with brief explanation of their goals and decision-making process for the cover, as well as any specific aspects of the work they're unhappy with or would like feedback on.
 
-3.  Create a new Google doc in your note-taking group's Shared Drive. Then Write down the type of site you've chosen, and the goal(s) that you identified.
+    -   Each member of the group should offer at least one positive comment about the revised version, and at least one suggestion for improvement. (You may also ask neutral questions about the work.)
 
-4.  Each member of your group should now find one website of the type you picked in step #1 that you think uses typography and design well to meet the goal(s) you described in step #2, and one that you think does it poorly. Add those (with links) to the Google doc.
+    -   The creator should avoid explaining or defending their design decisions; instead, focus on listening and understanding what people tell you. Ask clarifying questions if you want (e.g. "When you say you think it's too dark, what exactly do you mean?"), and take lots of notes.
 
-5.  As a group, look at each person's selections and discuss why you think each site is particularly good or particularly bad, addressing aspects of typography and design covered in this week’s lecture and in the readings. What was done well? What was not? Be specific, and include all aspects of the “GEARS” model, starting with what you think the intended goal of the site is, and how well the site does at using expression, alignment, reduction, and stress to meet that goal. For things that you feel were not done well, what kinds of changes would help?
-
-6.  For each site, the person who chose it should summarize the group's comments in the Google doc. **You must each do this yourself; if you do not, you will not receive credit for the exercise.** If the group was not in agreement about the site being good or bad, note that as well.
-
-7.  As a group, come to a consensus on which you feel is the best site in each category, and the worst. Make sure you clearly note that choice in your document.
+4.  If you have time left after the critique process, you can begin work on your deliverables.
 
 ## Deliverables
 
-This exercise is due at the end of class today. We will be checking each group's folder for a document with the required components, as well as evidence of individual student participation, on Thursday evening and/or Friday morning.
+1.  The initial versioin of your magazine cover.
+
+2.  Using the feedback from your group, create a final version of your magazine cover.
+
+3.  Create a process document that includes the following components:
+
+    -   A description of the process you used to create your cover, make sure to address the design goals
+    -   An explanation of how the critique process shaped your revisions.
+    -   Your critique notes for each of the covers your group reviewed
+
+Submit all of three files to the `Exercise - Critique` assignments dropbox in myCourses no later than noon on Monday of next week.
