@@ -221,7 +221,7 @@ We will not have class on Tuesday of this week, because it is a reading day. Mak
 
 -   **[Homework](exercises/cssExercise/cssExercise)**
     -   You'll use CSS (Cascading Style Sheets) to format the page you created in Tuesday's exercise.
-    -   **Due by class 10/22**
+    -   **Due by class 10/24**
 
 {% include top.html id="week9" content=page.week9 %}
 
