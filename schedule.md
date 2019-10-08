@@ -197,7 +197,7 @@ For the Getting Started with the Web articles in this week's readings, make sure
     -   [MDN: Dealing with Files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
     -   [MDN: HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
--   **[Homework](exercises/markupExercise/markupExercise)**
+-   **[Homework](exercises/markupExercise/basicMarkupExercise)**
     -   You'll work through the MDN Introduction to HTML guide, and complete the two assessment projects.
     -   **Due by class 10/17**
 
