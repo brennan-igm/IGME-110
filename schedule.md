@@ -189,15 +189,20 @@ For the Getting Started with the Web articles in this week's readings, make sure
 
 -   **Readings**
     -   [6 Ways Writing is Significantly Different for Online and Print](https://contently.com/strategist/2015/05/12/6-ways-writing-for-online-is-different-than-print/)
--   **[Exercise](exercises/markupExercise/basicMarkupExercise)**
-    -   In today's exercise, you'll create a basic HTML page, with links and images.
 
 ### Thursday (10/10)
 
 -   **Readings**
-    -   [Getting Started with the Web: CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
--   **[Exercise](exercises/positioningExercise/cssPositioningExercise)**
+    -   [MDN: Dealing with Files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+    -   [MDN: HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+    -   [MDN: CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+    -   [MDN: CSS First Steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
+-   **[Homework](exercises/markupExercise/markupExercise)**
+    -   You'll work through the MDN Introduction to HTML guide, and complete the two assessment projects.
+    -   **Due by class 11/17**
+-   **[Homework](exercises/cssExercise/cssExercise)**
     -   You'll use CSS (Cascading Style Sheets) to format the page you created in Tuesday's exercise.
+    -   **Due by class 11/17**
 
 {% include top.html id="week8" content=page.week8 %}
 
@@ -209,6 +214,8 @@ We will not have class on Tuesday of this week, because it is a reading day. Mak
     -   [MDN: Introduction to CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
     -   [MDN: Normal Flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
     -   [MDN: Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+    -   [Basics of CSS Grid: The Big Picture](https://www.youtube.com/watch?v=FEnRpy9Xfes)
+    -   [Flexbox vs CSS Grid: Which is Better?](https://www.youtube.com/watch?v=hs3piaN4b5I)
 -   **[Exercise](/exercises/designExercise/designExercise)**
     -   Before class, upload at least one visual mockup of your site to your note-taking group's folder for peer review in class.
     -   These can be done in whatever graphics or prototyping tool you prefer, or even in HTML and CSS.
