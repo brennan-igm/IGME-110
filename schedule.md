@@ -208,7 +208,7 @@ For the Getting Started with the Web articles in this week's readings, make sure
 
 {% include top.html id="week8" content=page.week8 %}
 
-We will not have class on Tuesday of this week, because it is a reading day. Make sure you do the readings and exercises before Thursday's class; I'll review the concepts on Thursday, but most of the class will be spent creating an initial layout for your web project.
+We will not have class on Tuesday of this week, because it is a reading day. Make sure you do the readings before Thursday's class; I'll review the concepts on Thursday, but most of the class will be spent creating an initial layout for your web project.
 
 ### Thursday (10/17)
 
