@@ -1,13 +1,13 @@
 # Resource Web Site
 
-In this assignment, you will create a website in which you provide information from or related to the topic of your paper. It should not simply be a reworking of your paper, but rather a resource guide related to your paper topic.
+In this assignment, you will create a website about yourself, and a few things that you've worked on.
 
 ## Site Requirements
 
 -   The files for your site should be in your GitHub Pages project directory. (We will cover how to do this in week 9.)
--   The main page should be called index.html, and should include a title with the site topic and a relevant image, a brief overview of your paper topic, and your name.
+-   The main page should be called index.html, and should include a title with the site topic and a relevant image, a brief introduction to yourself.
 -   The site should use a consistent visual design, using principles of color, layout and typography discussed in class.
--   There should be a minimum of three pages in addition to the main index page: two with content related to your paper topic, and a sources page that includes your bibliography (with links to the resource), as well as details about the process of making the site (including links to the sources of any images or code that you used).
+-   There should be a minimum of three pages in addition to the main index page: They should consist of 3 things that you've worked on. The examples are 1: your research paper, 2: your magazine cover, and 3: something you worked on outside of this class.
 -   Each of the pages should have navigation links to the other pages on the site
 -   Each of the pages should include at least one appropriate image (a photograph, a logo, etc).
 -   You may use templates and/or code libraries from other sources, provided that they are explicitly made available for re-use, and you clearly indicate and link back to what you used on the sources page.
