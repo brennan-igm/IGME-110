@@ -203,7 +203,7 @@ For the Getting Started with the Web articles in this week's readings, make sure
 
 -   **Readings**
     -   [Getting Started with the Web: CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
--   **Exercise**
+-   **[Exercise](exercises/cssExercise/cssExercise.md)**
     -   You'll use CSS (Cascading Style Sheets) to format the page you created in Tuesday's exercise.
 
 {% include top.html id="week8" content=page.week8 %}
