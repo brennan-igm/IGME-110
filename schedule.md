@@ -226,8 +226,11 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 ### Tuesday (10/22)
 
 -   **Readings**
-    -   [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
-        -   A bit out of date, but the concepts are sound.
+
+    -   [Getting Started with the Web: Publishing Your Website](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
+    -   [HTML File Paths](https://www.w3schools.com/html/html_filepaths.asp)
+    -   [FileZilla Client Tutorial](https://wiki.filezilla-project.org/FileZilla_Client_Tutorial_(en))
+    -   [RIT Web Developer's Site: Uploading Files](https://www.rit.edu/webdev/people/uploading-files)
 -   **Exercise**
 -   **Homework**
 
