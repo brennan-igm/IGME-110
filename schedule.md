@@ -232,13 +232,12 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
     -   [FileZilla Client Tutorial](https://wiki.filezilla-project.org/FileZilla_Client_Tutorial_(en))
     -   [RIT Web Developer's Site: Uploading Files](https://www.rit.edu/webdev/people/uploading-files)
 -   **[Exercise](exercises/ftpExercise/ftpExercise.md)**
--   **Homework**
 
 ### Thursday (10/24)
 
 -   **Readings**
+    -   [Git for Designers](https://medium.com/@dfosco/git-for-designers-856c434716e)
 -   **Exercise**
--   **Homework**
 
 {% include top.html id="week10" content=page.week10 %}
 
