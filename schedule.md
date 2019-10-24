@@ -237,8 +237,9 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 
 -   **Readings**
     -   [Git for Designers](https://medium.com/@dfosco/git-for-designers-856c434716e)
--   **Exercise**
-
+-   **[Exercise](exercises/gitExercise/gitExercise.md)**
+    -   In today's exercise you'll upload your website to GitHub, and set up GitHub Pages.
+    
 {% include top.html id="week10" content=page.week10 %}
 
 ### Tuesday (10/29)
