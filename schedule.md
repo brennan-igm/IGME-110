@@ -244,15 +244,14 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 
 ### Tuesday (10/29)
 
--   **Readings**
--   **Exercise**
--   **Homework**
 
 ### Thursday (10/31)
 
 -   **Readings**
--   **Exercise**
--   **Homework**
+    - [Game Accessibility Guidelines: Why and How](http://gameaccessibilityguidelines.com/why-and-how/)
+    -   [Extra Credits: Accessibility](https://youtu.be/PJoax1Z1x4Y)
+    -   [MDN: What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
+    -   [Web Accessibility for Designers](https://webaim.org/resources/designers/)
 
 {% include top.html id="week11" content=page.week11 %}
 
