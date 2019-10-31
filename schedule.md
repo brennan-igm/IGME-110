@@ -252,6 +252,9 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
     -   [Extra Credits: Accessibility](https://youtu.be/PJoax1Z1x4Y)
     -   [MDN: What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
     -   [Web Accessibility for Designers](https://webaim.org/resources/designers/)
+    
+-   **Project**
+    - [Reminder that the website project is due this weekend](projects/Website.md)
 
 {% include top.html id="week11" content=page.week11 %}
 
