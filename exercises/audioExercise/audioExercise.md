@@ -2,29 +2,19 @@
 
 In this exercise, you will be experimenting with adding audio to prerendered video. Using video editing software, as well as audio editing software, you will be creating sound assets and adding them to a video file.
 
-You will need to find a creative commons video to work with. There are resources such as [Pexels](https://videos.pexels.com/) that provide access to free stock videos that you can use. You will then cut down this video to 30-60 seconds long, mute any audio currently in the video, and add your own audio assets (a soundtrack, sound effects, voice, etc) to create a cohesive soundscape. 
+You will need to find a creative commons video to work with. There are resources such as [Pexels](https://videos.pexels.com/) that provide access to free stock videos that you can use. You will then cut down this video to 30-60 seconds long, mute any audio currently in the video, and add your own audio assets (a soundtrack, sound effects, voice, etc) to create a cohesive soundscape.
 
-For this exercise you will need atleast 4 audio files, a music soundtack and 3 sound effect clips. For the music soundtrack you are free to find a free one online. The sound effects however must be made by yourself, you can record your own or edit something you find online.
+For this exercise you will need atleast 4 audio files, a music soundtack and 3 sound effect clips. For the music soundtrack you are free to find a free one online. The sound effects however must be original records made by yourself.
 
-Next class, we will be watching everyone's videos and giving critique so make them enjoyable and as high quality as you can.
-
-## Downloading / Using Shotcut
-
-Shotcut is a free and open source video editing software similar to tools like Adobe Premiere and Sony Vegas. Download it from the [shotcut website](https://shotcut.org/) and install it. Open the software, and click "Open File" in the top left and select your video in the file explorer.
-
-Once you have done that, click "Playlist" at the top of the Shotcut window. Inside the Playlist window, click the + button to add your clip to the playlist. Once a clip has been added to your playlist, you can drag it into the timeline at the bottom.
-
-Drag the ends of your clip to shorten it to a reasonable length (30 - 60 seconds).
+You are free to use any video editing software that you wish. During class I will be using [shotcut website](https://shotcut.org/)(which is not installed on the lab machines), which is a free and open source similar to tools like Adobe Premiere and Sony Vegas.
 
 ## Finding / Editing Audio
 
 You can acquire audio files in a number of different ways. These include but are not limited to recording them yourself, finding them on a website that hosts creative commons audio or using tools to create your own sound effects and music.
 
-For sound effects, I recommend (Freesound)[https://freesound.org/] When searching on freesound, be sure to click the "Creative Commons 0" license filter at the right to ensure you're only getting results you can use.
+For music, try resources such as [this creativecommons.org article](https://creativecommons.org/about/program-areas/arts-culture/arts-culture-resources/legalmusicforvideos/).
 
-For music, try resources such as [this creativecommons.org article](https://creativecommons.org/about/program-areas/arts-culture/arts-culture-resources/legalmusicforvideos/). Freesound also has some music.
-
-You cannot use these sound effects as is, but you can use them as a starting point. If you want to create your own try downloading a few sounds and editing them together in Audacity using the skills you learned about in your readings.
+For the sound effects, you need to make the recordings yourself. You can then use the audacity skills you learned from the readings to trim and/or edit these recordings.
 
 ## Adding Audio to your Project
 
@@ -38,4 +28,6 @@ To create a single video file containing your new audio, you will need to "rende
 
 ## Submission
 
+
+[HTML Template](index.html)
 Upload your rendered video file to your GitHub repo to 'Audio/index.html'. We will be watching everyone's videos Friday and giving critique.

@@ -264,13 +264,15 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
     -   [Engadget Primed: Digital Audio Basics](https://www.engadget.com/2012/07/19/engadget-primed-digital-audio-basics/)
     -   [Wikipedia: Digital Audio](https://en.wikipedia.org/wiki/Digital_audio)
     -   [MakeUseOf: Audio File Formats Explained in Simple Terms](http://www.makeuseof.com/tag/a-look-at-the-different-file-formats-available-part-1-audio/)
--   **Homework**
-    -   [Lynda.com: Learning Audacity](https://www.lynda.com/Audacity-tutorials/Up-Running-Audacity/111697-2.html?org=rit.edu)
-    -   [Audacity Software Download](http://www.audacityteam.org/download/)
-        -   Only necessary if you want to do the tutorial on your own computer.
-
+    
 ### Thursday (11/7)
 
+-   **Readings**
+    -   [Lynda.com: Learning Audacity](https://www.linkedin.com/learning/learning-audacity/using-the-exercise-files?u=42272537)
+    -   [Audacity Software Download](http://www.audacityteam.org/download/)
+        -   Only necessary if you want to do the tutorial on your own computer.
+    -   [Making The Portal Gun Sound From Scratch](https://youtu.be/WCS8KJFIo7M)
+    -   [Making God Of War's Axe Recall sound with just an iPhone mic](https://youtu.be/R9MtlYf-OdU)
 -   **[Exercise](exercises/audioExercise/audioExercise.md)**
     -   In today's exercise you will add audio to a video.
 
