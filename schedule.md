@@ -273,6 +273,7 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
         -   Only necessary if you want to do the tutorial on your own computer.
     -   [Making The Portal Gun Sound From Scratch](https://youtu.be/WCS8KJFIo7M)
     -   [Making God Of War's Axe Recall sound with just an iPhone mic](https://youtu.be/R9MtlYf-OdU)
+    
 -   **[Exercise](exercises/audioExercise/audioExercise.md)**
     -   In today's exercise you will add audio to a video.
 
