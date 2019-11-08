@@ -2,6 +2,8 @@
 
 In this exercise, you will be experimenting with adding audio to prerendered video. Using video editing software, as well as audio editing software, you will be creating sound assets and adding them to a video file.
 
+This exercise is due before next Thursday's class, 11/14
+
 The goal for this exercise is to make a fake advertisement for, well, anything of your choosing (that's school appropriate, of course). We'll be continuing with this exercise next week, and doing more with the video aspect then. For this week we're just going to focus on the audio aspect.
 
 You will need to find a creative commons video to work with. There are resources such as [Pexels](https://videos.pexels.com/) that provide access to free stock videos that you can use. You will then cut down this video to 30-60 seconds long, mute any audio currently in the video, and add your own audio assets (a soundtrack, sound effects, voice, etc) to create a cohesive soundscape.
