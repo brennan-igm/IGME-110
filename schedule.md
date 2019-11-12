@@ -282,15 +282,13 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 ### Tuesday (11/12)
 
 -   **Readings**
--   **Exercise**
--   **Homework**
+    -   [Video Editing for Absolute Beginners](https://youtu.be/_Ek7Tyt17Yg)
+    - [Holding Long and Cutting Short: 2 Brilliant Moments in Editing](https://youtu.be/f78muH3MG7M)
 
 ### Thursday (11/14)
 
--   **Readings**
-    -   [Lynda.com: Premiere Pro CC 2018 Essential Training: The Basics](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-CC-2018-Essential-Training-Basics/624346-2.html)
--   **[Exercise](exercises/videoExercise/videoExercise.md)**
-    -   In this exercise, you will be creating a trailer for some form of media.
+-   **Exercise**
+    -   In this exercise, you will be continuing your advertisement, this week focusing on the video aspect of it.
 
 {% include top.html id="week13" content=page.week13 %}
 
