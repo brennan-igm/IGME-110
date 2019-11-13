@@ -287,6 +287,12 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 
 ### Thursday (11/14)
 
+-   **Readings**
+    - [The Invention of Cinema](https://www.youtube.com/watch?v=zH0VCY5CYQQ)
+    - [Mastering Composition + Cinematography with Will Smith](https://youtu.be/cIvGRytmRaw)
+    - [How Does an Editor Think and Feel?](https://www.youtube.com/watch?v=3Q3eITC01Fg)
+    - [Constructing a Battle Scene](https://www.youtube.com/watch?v=LFpki7v4xiI)
+    
 -   **Exercise**
     -   In this exercise, you will be continuing your advertisement, this week focusing on the video aspect of it.
 
@@ -295,14 +301,13 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 ### Tuesday (11/19)
 
 -   **Readings**
--   **Exercise**
--   **Homework**
+    -   [Early history of Editing techniques](https://seanmaguireblog.wordpress.com/2012/05/14/early-history-of-editing-techniques/)
+    -   [They Call Me Baby Driver - Movies with Mikey](https://youtu.be/Yy9EFmF7gHg)
+    -   [The Tech of Spider-Man: Into the Spider-Verse - Movies with Mikey](https://youtu.be/DPpjdU2MhUQ)
 
 ### Thursday (11/21)
 
--   **Readings**
 -   **Exercise**
--   **Homework**
 
 {% include top.html id="week14" content=page.week14 %}
 
