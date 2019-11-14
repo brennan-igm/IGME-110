@@ -28,3 +28,5 @@ You will need to upload a page to your GitHub repo at `igme110/video/index.html`
 4. Links to all sources used in the video (anything you didn't make).
 
 You can find a sample template [here](index.html)
+
+Post a link to your page in the `Exercise - Video` dropbox on MyCourses.
