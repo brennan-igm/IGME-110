@@ -293,7 +293,7 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
     - [How Does an Editor Think and Feel?](https://www.youtube.com/watch?v=3Q3eITC01Fg)
     - [Constructing a Battle Scene](https://www.youtube.com/watch?v=LFpki7v4xiI)
     
--   **Exercise**
+-   **[Exercise](exercises/videoExercse/videoExercise.md)**
     -   In this exercise, you will be continuing your advertisement, this week focusing on the video aspect of it.
 
 {% include top.html id="week13" content=page.week13 %}
