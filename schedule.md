@@ -307,8 +307,9 @@ Once you’ve created your web pages, how do you publish them? We’ll talk abou
 
 ### Thursday (11/21)
 
--   **Exercise**
-
+-   **[Exercise](exercises/adCritiqueExercise/adCritiqueExercise.md)**
+    -   In today's exercise, you will be doing critiques on your group member's advertisements.
+    
 {% include top.html id="week14" content=page.week14 %}
 
 This week we’ll discuss the importance of good presentation skills, and look at examples of effective short-form presentations.
