@@ -1,15 +1,15 @@
 # Ad Critique Exercise
 
-The goal of this exercise is to critique your group members advertisements, and get critiqe for your advertisement. Then, edit your advertisement based on the feedback you received.
+The goal of this exercise is to critique your group members advertisements, and get critiqe for your advertisement. Then, you'll edit your advertisement based on the feedback you received.
 
-Like the critique we've done in the past, remember to ask non-judgemental questions, such as: "What was your goal for this work?" or "What do you want people to notice first?". Be sure to acknowledge positive aspects of the videos, and provide concrete suggestions for improvement.
+Like the critiques we've done in the past, remember to ask non-judgemental questions, such as: "What was your goal for this work?" or "What do you want people to notice first?". Be sure to acknowledge positive aspects of the videos, and provide concrete suggestions for improvement.
 
 
 ## Process
 
-1.  Post a link to your github page with your video to make it easier to find the video. Then gather around a laptop, so you can hear the audio component of the advertisement. 
+1.  Post a link in your group's discord channel to your github page with your video.
 
-2.  As a group, watch then critique each of the advertisements.
+2.  As a group, watch, then critique each of the advertisements.
 
     -   Have the creator start with brief explanation of their goals and decision-making process for the advertisement, as well as any specific aspects of the work they're unhappy with or would like feedback on.
 
