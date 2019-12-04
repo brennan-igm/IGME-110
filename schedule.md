@@ -332,4 +332,4 @@ If you will be missing Tuesday's class due to travel plans, you will need to wat
 
 ### Thursday (12/5)
 
--   **Final Project**
+-   **(Final Project)[projects/Presentation.md]**
